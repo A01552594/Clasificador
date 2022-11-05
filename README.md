@@ -1,7 +1,7 @@
 # Clasificador
 
 ## Video de prueba de modelo
-    1. https://youtu.be/sxt278D_hXc
+    https://youtu.be/sxt278D_hXc
 
 ## Entrenar modelo
     1. Instrucciones
